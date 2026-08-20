@@ -1,4 +1,26 @@
-# Wildlife rehabilitation data reveal early warning signals of emerging ecological and health threats
+<p align="center">
+  <img src="assets/EpiPandit_Yellow_Logo.png" alt="EpiPandit Lab" height="120">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/wild_alert_logo_mdr.png" alt="WildAlert" height="120">
+</p>
+
+<h1 align="center">
+Wildlife rehabilitation data reveal early warning signals of emerging ecological and health threats
+</h1>
+
+<p align="center">
+  <strong>An Early Warning System for Wildlife Health Events</strong>
+</p>
+
+<p align="center">
+  <a href="#overview">Overview</a> •
+  <a href="#project-organization">Project Organization</a> •
+  <a href="#data">Data</a> •
+  <a href="#modeling">Modeling</a> •
+  <a href="#results">Results</a>
+</p>
+
+---
 
 **Pranav S. Pandit**$^{1,*}$, **Soumya Ranjan**$^2$, **Devin Dombrowski**$^3$, **Rachel Avilla**$^3$, **Carmen Ross**$^1$, **Deana L. Clifford**$^4$, **Krysta H. Rogers**$^4$, **Jane Riner**$^5$, **Heather Perry**$^4$, **Kirsten Gilardi**$^5$, **Martina Rutti**$^6$, **Leanne Flewelling**$^6$, **Katherine Hubbard**$^6$, **Terra Kelly**$^7$
 
