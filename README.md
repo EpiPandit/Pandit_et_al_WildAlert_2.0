@@ -25,18 +25,7 @@ $^*$**Corresponding Author:** Pranav S. Pandit ([pspandit@ucdavis.edu](mailto:ps
 
 ## Abstract
 
-Emerging infections and environmental disruptions increasingly threaten wildlife, ecosystem and human health, yet early warning of ecological disruption, including disease outbreaks, harmful algal blooms, toxic exposures, climate-associated mortality events, and other environmental stressors, remains largely reactive, and fragmented. 
-
-Free-ranging wildlife often serve as early indicators of emerging public health and environmental threats, but the lack of scalable, real-time analytical frameworks has limited their integration into early warning systems. Here, we show that pre-diagnostic wildlife rehabilitation records encode consistent early warning signals of ecological disruption across taxa, geographies, and threat types. 
-
-We operationalize this insight through **WildAlert**, a real-time wildlife health surveillance system deployed across five U.S. states, which integrates natural language processing and unsupervised anomaly detection to identify unusual morbidity and mortality patterns. WildAlert detected anomalous wildlife morbidity and mortality patterns associated with diverse wildlife health events, including:
-
-- Highly pathogenic avian influenza (HPAI)
-- Harmful algal bloom-associated toxicosis
-- Climate-linked mass strandings
-- Other emerging infectious and non-infectious threats
-
-These detections frequently coincided with or preceded confirmation by independent federal and state monitoring programs. Together, these results establish wildlife rehabilitation data as a scalable, near-real-time early warning layer for ecosystems undergoing rapid environmental change and demonstrate a transferable One Health surveillance tool linking wildlife health, ecosystem disruption, and zoonotic risk.
+Emerging infections and environmental disruptions increasingly threaten wildlife, ecosystem and human health, yet early warning of ecological disruption, including disease outbreaks, harmful algal blooms, toxic exposures, climate-associated mortality events, and other environmental stressors, remains largely reactive, and fragmented. Free‑ranging wildlife often serve as early indicators of emerging public health and environmental threats, but the lack of scalable, real‑time analytical frameworks has limited their integration into early warning systems. Here, we show that pre‑diagnostic wildlife rehabilitation records encode consistent early warning signals of ecological disruption across taxa, geographies, and threat types. We operationalize this insight through WildAlert, a real‑time wildlife health surveillance system deployed across five U.S. states, which integrates natural language processing and unsupervised anomaly detection to identify unusual morbidity and mortality patterns. WildAlert detected anomalous wildlife morbidity and mortality patterns associated with diverse wildlife health events, including highly pathogenic avian influenza, harmful algal bloom-associated toxicosis, climate‑linked mass strandings, and other infectious and non‑infectious threats, frequently coinciding with or preceding confirmation by independent federal and state monitoring programs. Together, these results establish wildlife rehabilitation data as a scalable, near-real‑time early warning layer for ecosystems undergoing rapid environmental change and demonstrate a transferable One Health surveillance tool linking wildlife health, ecosystem disruption, and zoonotic risk.
 
 ==============================
 
