@@ -1,5 +1,43 @@
-# Template GitHub Repository for EpiPandit Lab
-## Quantitative veterinary epidemiology and disease ecology lab
+# Wildlife rehabilitation data reveal early warning signals of emerging ecological and health threats
+
+**Pranav S. Pandit**$^{1,*}$, **Soumya Ranjan**$^2$, **Devin Dombrowski**$^3$, **Rachel Avilla**$^3$, **Carmen Ross**$^1$, **Deana L. Clifford**$^4$, **Krysta H. Rogers**$^4$, **Jane Riner**$^5$, **Heather Perry**$^4$, **Kirsten Gilardi**$^5$, **Martina Rutti**$^6$, **Leanne Flewelling**$^6$, **Katherine Hubbard**$^6$, **Terra Kelly**$^7$
+
+---
+
+### Affiliations
+
+$^1$ Department of Population Health and Reproduction, School of Veterinary Medicine, University of California, Davis, CA 95616, USA  
+$^2$ Development Seed, Washington D.C., USA  
+$^3$ The Wild Neighbors Database Project, Middletown, CA, USA  
+$^4$ Wildlife Health Laboratory, California Department of Fish and Wildlife, Rancho Cordova, CA 95670, USA  
+$^5$ Wildlife Health Center, School of Veterinary Medicine, University of California, Davis, Davis, CA 95616, USA  
+$^6$ Florida Fish and Wildlife Conservation Commission, Fish and Wildlife Research Institute, St. Petersburg, FL 33701, USA  
+$^7$ EpiEcos, Flagstaff, Arizona, USA  
+
+$^*$**Corresponding Author:** Pranav S. Pandit ([pspandit@ucdavis.edu](mailto:pspandit@ucdavis.edu))
+
+---
+
+### Keywords
+`Syndromic disease surveillance` • `Wildlife rehabilitation` • `Anomaly detection` • `Harmful algal bloom` • `Highly pathogenic avian influenza`
+
+---
+
+## Abstract
+
+Emerging infections and environmental disruptions increasingly threaten wildlife, ecosystem and human health, yet early warning of ecological disruption, including disease outbreaks, harmful algal blooms, toxic exposures, climate-associated mortality events, and other environmental stressors, remains largely reactive, and fragmented. 
+
+Free-ranging wildlife often serve as early indicators of emerging public health and environmental threats, but the lack of scalable, real-time analytical frameworks has limited their integration into early warning systems. Here, we show that pre-diagnostic wildlife rehabilitation records encode consistent early warning signals of ecological disruption across taxa, geographies, and threat types. 
+
+We operationalize this insight through **WildAlert**, a real-time wildlife health surveillance system deployed across five U.S. states, which integrates natural language processing and unsupervised anomaly detection to identify unusual morbidity and mortality patterns. WildAlert detected anomalous wildlife morbidity and mortality patterns associated with diverse wildlife health events, including:
+
+- Highly pathogenic avian influenza (HPAI)
+- Harmful algal bloom-associated toxicosis
+- Climate-linked mass strandings
+- Other emerging infectious and non-infectious threats
+
+These detections frequently coincided with or preceded confirmation by independent federal and state monitoring programs. Together, these results establish wildlife rehabilitation data as a scalable, near-real-time early warning layer for ecosystems undergoing rapid environmental change and demonstrate a transferable One Health surveillance tool linking wildlife health, ecosystem disruption, and zoonotic risk.
+
 ==============================
 
 Text summarizing your project.
@@ -40,21 +78,3 @@ Text summarizing your project.
     │   └── visualization  <- Scripts to create exploratory and results-oriented visualizations
 
 --------
-
-
-## Setup Instructions
-------------
-1. Clone the repo
-2. Create a virtual environment
-3. Install the requirements
-4. Run the notebooks
-
-```bash
-git clone
-cd EpiPandit_Template
-make conda-create
-conda activate EpiPandit_Template
-make setup
-jupyter notebook
-```
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>.</small></p>
